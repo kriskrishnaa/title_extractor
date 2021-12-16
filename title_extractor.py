@@ -49,8 +49,8 @@ def clean_title(title):
     return title
 
 def distance(s1, s2):
-    Distance = lev.distance(s1.lower(),s2.lower())
-    Ratio = lev.ratio(s1.lower(),s2.lower()) * 100
+    Distance = lev.distance(s1.lower(),s2.lower()) ## how many letters that to take change from one string to another
+    Ratio = lev.ratio(s1.lower(),s2.lower()) * 100 ## Ratio of difference
     return Distance, Ratio
 
 
