@@ -1,0 +1,12 @@
+Customer_id,Response,Content_names
+1,"Fear the walking dead,Supernatural (huge fan and sad it has finished),The Gentlemen, Outlander","{'Fear the Walking Dead': 100.0, 'Supernatural': 100.0, 'The Gentlemen': 100.0, 'Outlander': 100.0}"
+2,"A lot!
+
+-good doctor
+-gangs of London 
+- the gentleman
+-ma 
+-spies in disguise ","{'The Gentlemen': 88.88888888888889, 'The Good Doctor': 100.0, 'Gangs of London': 100.0, 'Ma': 100.0, 'Spies in Disguise': 100.0}"
+3,"Miss scarlet and the duke,knifes out,Dublin murders","{'Miss Scarlet and the Duke': 100.0, 'Dublin Murders': 100.0, 'Knives Out': 83.33333333333333}"
+4,"History drama-Vikings,Kid friendly-Casper,Sometimes the conversations while watching Neon can get serious but we all end up having fun together, :)","{'Vikings': 100.0, 'Casper': 100.0}"
+5,"The Undoing,Game of thrones,Outlander, Vikings,CB Strike (and most all British dramas) Westworld","{'Outlander': 100.0, 'Vikings': 100.0, 'The Undoing': 100.0, 'Game of Thrones': 100.0, 'C.B. Strike': 90.0, 'Westworld': 100.0}"
